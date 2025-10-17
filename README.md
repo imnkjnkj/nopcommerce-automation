@@ -54,10 +54,9 @@ playwright-automation/
 │   ├── dev.env.ts
 │   ├── staging.env.ts
 │   └── prod.env.ts
-│
-├── 📁 reports/               # Allure test reports
-│   ├── allure-results/
-│   └── allure-report/
+│         
+├── allure-results/
+├── allure-report/
 │
 ├── 📁 .github/workflows/     # CI/CD pipeline files
 │   └── playwright.yml
